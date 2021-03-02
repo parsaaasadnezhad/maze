@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Menuuu.qml</file>
+        <file>Player.qml</file>
+        <file>Game.qml</file>
+        <file>Solotion.qml</file>
+        <file>Wating.qml</file>
+        <file>Leaderboard.qml</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>icon/cat.png</file>
+        <file>icon/cow.png</file>
+        <file>icon/dog.png</file>
+        <file>icon/fox.png</file>
+        <file>icon/lion.png</file>
+        <file>icon/panda.png</file>
+        <file>icon/bird.png</file>
+        <file>icon/crab.png</file>
+        <file>icon/horse.png</file>
+        <file>icon/llama.png</file>
+        <file>icon/seal.png</file>
+        <file>icon/spider.png</file>
+        <file>icon/entertainment.png</file>
+        <file>icon/leaderboard.png</file>
+        <file>icon/problem.png</file>
+        <file>icon/pattern.png</file>
+        <file>icon/wall.png</file>
+        <file>icon/star.png</file>
+        <file>icon/clock.png</file>
+        <file>icon/steps.png</file>
+        <file>icon/bone.png</file>
+        <file>icon/brain.png</file>
+        <file>icon/wating.gif</file>
+        <file>icon/gear.png</file>
+        <file>icon/browser.png</file>
+        <file>icon/help.png</file>
+        <file>icon/settings.png</file>
+        <file>icon/technical-support.png</file>
+        <file>icon/user.png</file>
+        <file>icon/gmail.png</file>
+        <file>icon/instagram.png</file>
+        <file>icon/telegram.png</file>
+        <file>icon/goal.png</file>
+        <file>icon/play.png</file>
+    </qresource>
+    <qresource prefix="/song">
+        <file>song/bensound-dreams.mp3</file>
+        <file>song/bensound-summer.mp3</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/paghsa.jpg</file>
+    </qresource>
+    <qresource prefix="/font">
+        <file>font/Negaar Regular.ttf</file>
+        <file>font/SH AraHala.ttf</file>
+    </qresource>
+    <qresource prefix="/maze"/>
+</RCC>
